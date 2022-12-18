@@ -1,0 +1,733 @@
+{
+  "setting": {
+    "engine": "google"
+  },
+  "banner": {
+    "primary": {
+      "img": "/assets/banner/211202-1.jpg",
+      "url": "",
+      "title": "",
+      "brief": ""
+    },
+    "secondary": {
+      "img": "/assets/banner/211202-2.jpg",
+      "url": "https://jsthon.com/",
+      "title": "Jsthon",
+      "brief": "Developer's Blog"
+    }
+  },
+  "ads": [],
+  "link": [
+    {
+      "name": "Recommend",
+      "group": [
+        {
+          "name": "SNS",
+          "list": [
+            {
+              "name": "Twitter",
+              "url": "https://twitter.com/"
+            },
+            {
+              "name": "Facebook",
+              "url": "https://www.facebook.com/"
+            },
+            {
+              "name": "Instagram",
+              "url": "https://www.instagram.com/"
+            },
+            {
+              "name": "Reddit",
+              "url": "https://www.reddit.com/"
+            },
+            {
+              "name": "TikTok",
+              "url": "https://www.tiktok.com/"
+            },
+            {
+              "name": "Discord",
+              "url": "https://discord.com/"
+            }
+          ]
+        },
+        {
+          "name": "Movies",
+          "list": [
+            {
+              "name": "YouTube",
+              "url": "https://www.youtube.com/"
+            },
+            {
+              "name": "Netflix",
+              "url": "https://www.netflix.com/"
+            },
+            {
+              "name": "IMDb",
+              "url": "https://www.imdb.com/"
+            },
+            {
+              "name": "Hotstar",
+              "url": "https://www.hotstar.com/"
+            },
+            {
+              "name": "Disney+",
+              "url": "https://www.disneyplus.com/"
+            },
+            {
+              "name": "Hulu",
+              "url": "https://www.hulu.com/"
+            }
+          ]
+        },
+        {
+          "name": "Shopping",
+          "list": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/"
+            },
+            {
+              "name": "eBay",
+              "url": "https://www.ebay.com/"
+            },
+            {
+              "name": "Walmart",
+              "url": "https://www.walmart.com/"
+            },
+            {
+              "name": "Rakuten",
+              "url": "https://www.rakuten.co.jp/"
+            },
+            {
+              "name": "AliExpress",
+              "url": "https://www.aliexpress.com/"
+            },
+            {
+              "name": "Costco",
+              "url": "https://www.costco.com/"
+            }
+          ]
+        },
+        {
+          "name": "News",
+          "list": [
+            {
+              "name": "Yahoo",
+              "url": "https://www.yahoo.com/"
+            },
+            {
+              "name": "MSN",
+              "url": "https://www.msn.com/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/"
+            },
+            {
+              "name": "CNN",
+              "url": "https://edition.cnn.com/"
+            },
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/"
+            },
+            {
+              "name": "The New York Times",
+              "url": "https://www.nytimes.com/"
+            }
+          ]
+        },
+        {
+          "name": "Music",
+          "list": [
+            {
+              "name": "Spotify",
+              "url": "https://www.spotify.com/"
+            },
+            {
+              "name": "SoundCloud",
+              "url": "https://soundcloud.com/"
+            },
+            {
+              "name": "Apple Music",
+              "url": "https://music.apple.com/"
+            },
+            {
+              "name": "Amazon Music",
+              "url": "https://music.amazon.com/"
+            },
+            {
+              "name": "Pandora",
+              "url": "https://www.pandora.com/"
+            },
+            {
+              "name": "Bandcamp",
+              "url": "https://www.bandcamp.com/"
+            }
+          ]
+        },
+        {
+          "name": "Arts",
+          "list": [
+            {
+              "name": "Worldstar",
+              "url": "https://worldstarhiphop.com/"
+            },
+            {
+              "name": "Vimeo",
+              "url": "https://vimeo.com/"
+            },
+            {
+              "name": "Fandom",
+              "url": "https://www.fandom.com/"
+            },
+            {
+              "name": "Pixiv",
+              "url": "https://www.pixiv.net/"
+            },
+            {
+              "name": "Tumblr",
+              "url": "https://www.tumblr.com/"
+            },
+            {
+              "name": "DeviantArt",
+              "url": "https://www.deviantart.com/"
+            }
+          ]
+        },
+        {
+          "name": "Games",
+          "list": [
+            {
+              "name": "Twitch",
+              "url": "https://www.twitch.tv/"
+            },
+            {
+              "name": "Steam",
+              "url": "https://store.steampowered.com/"
+            },
+            {
+              "name": "GOG",
+              "url": "https://www.gog.com/"
+            },
+            {
+              "name": "Epic Games",
+              "url": "https://www.epicgames.com/"
+            },
+            {
+              "name": "Origin",
+              "url": "https://www.origin.com/"
+            },
+            {
+              "name": "Uplay",
+              "url": "https://www.uplay.com/"
+            }
+          ]
+        },
+        {
+          "name": "Finance",
+          "list": [
+            {
+              "name": "PayPal",
+              "url": "https://www.paypal.com/"
+            },
+            {
+              "name": "Bank of America",
+              "url": "https://www.bankofamerica.com/"
+            },
+            {
+              "name": "Wells Fargo",
+              "url": "https://www.wellsfargo.com/"
+            },
+            {
+              "name": "Citi",
+              "url": "https://www.citi.com/"
+            },
+            {
+              "name": "American Express",
+              "url": "https://www.americanexpress.com/"
+            },
+            {
+              "name": "Discover",
+              "url": "https://www.discover.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Programming",
+      "group": [
+        {
+          "name": "Community",
+          "list": [
+            {
+              "name": "StackOverflow",
+              "url": "https://stackoverflow.com/"
+            },
+            {
+              "name": "Ask Ubuntu",
+              "url": "https://askubuntu.com/"
+            },
+            {
+              "name": "Super User",
+              "url": "https://superuser.com/"
+            },
+            {
+              "name": "Server Fault",
+              "url": "https://serverfault.com/"
+            },
+            {
+              "name": "ProductHunt",
+              "url": "https://www.producthunt.com/"
+            },
+            {
+              "name": "HackerNews",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "name": "Spaces",
+          "list": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/"
+            },
+            {
+              "name": "GitLab",
+              "url": "https://gitlab.com/"
+            },
+            {
+              "name": "Bitbucket",
+              "url": "https://bitbucket.org/"
+            },
+            {
+              "name": "CodePen",
+              "url": "https://codepen.io/"
+            },
+            {
+              "name": "CodeSandbox",
+              "url": "https://codesandbox.io/"
+            },
+            {
+              "name": "Notion",
+              "url": "https://www.notion.so/"
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "list": [
+            {
+              "name": "AWS",
+              "url": "https://aws.amazon.com/"
+            },
+            {
+              "name": "Google Cloud",
+              "url": "https://cloud.google.com/"
+            },
+            {
+              "name": "Azure",
+              "url": "https://azure.microsoft.com/"
+            },
+            {
+              "name": "DigitalOcean",
+              "url": "https://www.digitalocean.com/"
+            },
+            {
+              "name": "Heroku",
+              "url": "https://www.heroku.com/"
+            },
+            {
+              "name": "Cloudflare",
+              "url": "https://www.cloudflare.com/"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "list": [
+            {
+              "name": "IPinfo",
+              "url": "https://ipinfo.io/"
+            },
+            {
+              "name": "Speedtest",
+              "url": "https://www.speedtest.net/"
+            },
+            {
+              "name": "VirusTotal",
+              "url": "https://www.virustotal.com/"
+            },
+            {
+              "name": "RegExr",
+              "url": "https://regexr.com/"
+            },
+            {
+              "name": "Can I use",
+              "url": "https://caniuse.com/"
+            },
+            {
+              "name": "Diffchecker",
+              "url": "https://www.diffchecker.com/"
+            }
+          ]
+        },
+        {
+          "name": "Analytics",
+          "list": [
+            {
+              "name": "Ping.pe",
+              "url": "https://ping.pe/"
+            },
+            {
+              "name": "Shodan",
+              "url": "https://www.shodan.io/"
+            },
+            {
+              "name": "SimilarWeb",
+              "url": "https://www.similarweb.com/"
+            },
+            {
+              "name": "SimilarSites",
+              "url": "https://www.similarsites.com/"
+            },
+            {
+              "name": "PageSpeed",
+              "url": "https://pagespeed.web.dev/"
+            },
+            {
+              "name": "WebPageTest",
+              "url": "https://webpagetest.org/"
+            }
+          ]
+        },
+        {
+          "name": "Docs",
+          "list": [
+            {
+              "name": "MDN",
+              "url": "https://developer.mozilla.org/"
+            },
+            {
+              "name": "Android",
+              "url": "https://developer.android.com/docs"
+            },
+            {
+              "name": "Apple",
+              "url": "https://developer.apple.com/cn/documentation/"
+            },
+            {
+              "name": "W3Schools",
+              "url": "https://www.w3schools.com/"
+            },
+            {
+              "name": "jQuery",
+              "url": "https://api.jquery.com/"
+            },
+            {
+              "name": "Git",
+              "url": "http://git-scm.com/"
+            }
+          ]
+        },
+        {
+          "name": "Guides",
+          "list": [
+            {
+              "name": "CSS-Tricks",
+              "url": "https://css-tricks.com/"
+            },
+            {
+              "name": "Baeldung",
+              "url": "https://www.baeldung.com/"
+            },
+            {
+              "name": "Programiz",
+              "url": "https://www.programiz.com/"
+            },
+            {
+              "name": "JsTips",
+              "url": "https://www.jstips.co/"
+            },
+            {
+              "name": "GeeksforGeeks",
+              "url": "https://www.geeksforgeeks.org/"
+            },
+            {
+              "name": "freeCodeCamp",
+              "url": "https://www.freecodecamp.org/"
+            }
+          ]
+        },
+        {
+          "name": "Resources",
+          "list": [
+            {
+              "name": "SourceForge",
+              "url": "https://sourceforge.net/"
+            },
+            {
+              "name": "npm",
+              "url": "https://www.npmjs.com/"
+            },
+            {
+              "name": "Docker Hub",
+              "url": "https://hub.docker.com/"
+            },
+            {
+              "name": "Homebrew",
+              "url": "https://formulae.brew.sh/"
+            },
+            {
+              "name": "PyPI",
+              "url": "https://pypi.org/"
+            },
+            {
+              "name": "Go Pkg",
+              "url": "https://pkg.go.dev/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "group": [
+        {
+          "name": "Creatives",
+          "list": [
+            {
+              "name": "Dribbble",
+              "url": "https://dribbble.com/"
+            },
+            {
+              "name": "Behance",
+              "url": "https://www.behance.net/"
+            },
+            {
+              "name": "Panda",
+              "url": "https://app.usepanda.com/"
+            },
+            {
+              "name": "abdz.do",
+              "url": "https://abduzeedo.com/"
+            },
+            {
+              "name": "Land-book",
+              "url": "https://land-book.com/"
+            },
+            {
+              "name": "Muzli",
+              "url": "https://muz.li/"
+            }
+          ]
+        },
+        {
+          "name": "Images",
+          "list": [
+            {
+              "name": "Unsplash",
+              "url": "https://unsplash.com/"
+            },
+            {
+              "name": "Pinterest",
+              "url": "https://www.pinterest.com/"
+            },
+            {
+              "name": "Pixabay",
+              "url": "https://pixabay.com/"
+            },
+            {
+              "name": "Pexels",
+              "url": "https://www.pexels.com/"
+            },
+            {
+              "name": "500px",
+              "url": "https://500px.com/"
+            },
+            {
+              "name": "SplitShire",
+              "url": "https://www.splitshire.com/"
+            }
+          ]
+        },
+        {
+          "name": "Icons",
+          "list": [
+            {
+              "name": "Flaticon",
+              "url": "https://www.flaticon.com/"
+            },
+            {
+              "name": "iconscout",
+              "url": "https://iconscout.com/"
+            },
+            {
+              "name": "Iconfinder",
+              "url": "https://www.iconfinder.com/"
+            },
+            {
+              "name": "NounProject",
+              "url": "https://thenounproject.com/"
+            },
+            {
+              "name": "Icons8",
+              "url": "https://icons8.com/"
+            },
+            {
+              "name": "CSS Icons",
+              "url": "https://css.gg/"
+            }
+          ]
+        },
+        {
+          "name": "Fonts",
+          "list": [
+            {
+              "name": "Fontsup",
+              "url": "https://fontsup.com/"
+            },
+            {
+              "name": "Fonts2u",
+              "url": "https://fonts2u.com/"
+            },
+            {
+              "name": "UrbanFonts",
+              "url": "https://www.urbanfonts.com/"
+            },
+            {
+              "name": "MyFonts",
+              "url": "https://www.myfonts.com/"
+            },
+            {
+              "name": "Adobe Fonts",
+              "url": "https://fonts.adobe.com/"
+            },
+            {
+              "name": "Google Fonts",
+              "url": "https://fonts.google.com/"
+            }
+          ]
+        },
+        {
+          "name": "Colors",
+          "list": [
+            {
+              "name": "Adobe Color",
+              "url": "https://color.adobe.com/"
+            },
+            {
+              "name": "ColorHunt",
+              "url": "https://colorhunt.co/"
+            },
+            {
+              "name": "Coolors",
+              "url": "https://coolors.co/"
+            },
+            {
+              "name": "WebGradients",
+              "url": "https://webgradients.com/"
+            },
+            {
+              "name": "Colllor",
+              "url": "http://colllor.com/"
+            },
+            {
+              "name": "Paletton",
+              "url": "https://paletton.com/"
+            }
+          ]
+        },
+        {
+          "name": "Resources",
+          "list": [
+            {
+              "name": "Freepik",
+              "url": "https://www.freepik.com/"
+            },
+            {
+              "name": "Firmbee",
+              "url": "https://firmbee.com/"
+            },
+            {
+              "name": "Subtle Patterns",
+              "url": "https://www.toptal.com/designers/subtlepatterns/"
+            },
+            {
+              "name": "Pixeden",
+              "url": "https://www.pixeden.com/"
+            },
+            {
+              "name": "Shutterstock",
+              "url": "https://www.shutterstock.com/"
+            },
+            {
+              "name": "Themeforest",
+              "url": "https://themeforest.net/"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "list": [
+            {
+              "name": "Fotor",
+              "url": "https://www.fotor.com/"
+            },
+            {
+              "name": "CloudConvert",
+              "url": "https://cloudconvert.com/"
+            },
+            {
+              "name": "TinyPNG",
+              "url": "https://tinypng.com/"
+            },
+            {
+              "name": "AutoDraw",
+              "url": "https://www.autodraw.com/"
+            },
+            {
+              "name": "Vector Magic",
+              "url": "https://vectormagic.com/"
+            },
+            {
+              "name": "The Bézier Game",
+              "url": "https://bezier.method.ac/"
+            }
+          ]
+        },
+        {
+          "name": "Guidelines",
+          "list": [
+            {
+              "name": "Android",
+              "url": "https://developer.android.com/design"
+            },
+            {
+              "name": "Apple",
+              "url": "https://developer.apple.com/design/"
+            },
+            {
+              "name": "Google",
+              "url": "https://design.google/"
+            },
+            {
+              "name": "Microsoft",
+              "url": "https://www.microsoft.com/design"
+            },
+            {
+              "name": "Material",
+              "url": "https://material.io/"
+            },
+            {
+              "name": "Screen Sizes",
+              "url": "https://screensiz.es/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

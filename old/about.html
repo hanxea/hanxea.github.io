@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+	<title>简单导航
+	</title>
+	<meta charset="utf-8">
+	<meta content="width=device-width,initial-scale=1,maximum-scale=1" name="viewport">
+	<meta content="jsthon" name="author">
+	<meta content="一个极简的网址导航" name="description">
+	<link href="static/css/style-q9s5du.css" rel="stylesheet">
+    <script>
+     fetch('https://v1.hitokoto.cn?c=d&c=j')
+          .then(function (res){
+           return res.json();
+         })
+          .then(function (data) {
+          var hitokoto = document.getElementById('hitokoto');
+          hitokoto.innerText = data.hitokoto;
+	      from.innerText = data.from;
+         })
+          .catch(function (err) {
+           console.error(err);
+         })
+    </script>
+	<script>
+		window.ga =
+		      window.ga ||
+		      function () {
+		        (ga.q = ga.q || []).push(arguments)
+		      };
+		    ga.l = +new Date;
+		    ga('create','UA-69454720-6','auto');
+		    ga('send','pageview');
+	</script>
+	<div id="site-main">
+		<div id="main-overlay"></div>
+		<div class="headline">
+			<div class="container">
+				<div class="headline-content">
+					<div class="title">关于</div>
+					<p>简单导航</p>
+				</div>
+			</div>
+		</div>
+		<div class="about grey-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 column">
+						<h5 id="hitokoto">一万个人眼里有一万个世界。</h5>
+						<h6 id="from">There are ten thousand worlds in ten thousand people's eyes.</h6>
+					</div>
+					<div class="col-6 column">
+						<p>处处细微，一切都是理所当然。你会发现，不同的网络环境，将得到不同的搜索体验。
+						<p>不落俗套。优秀的产品始终不会流露出的艳俗气质，所谓的艳俗气质就是经不起时间的考验。
+						<p>人生必有痴，而后有成。不断地跟进技术，希望创造一些简洁的东西，以改善少数人的生活。
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer id="site-footer">
+			<div class="container">
+					<div class="copy">
+						©
+						<span id="current-year">
+							<script>
+							document.getElementById(
+							"current-year"
+							 ).innerHTML = new Date().getFullYear();
+							</script>
+						</span>&nbsp;简单导航
+						<br />
+						一个极简的网址导航
+					</div>
+					<div class="social">
+						<a href="contact" class="social-link"><i class="icon-mail"></i></a>
+						<a href="/old" class="social-link"><i class="icon-menu"></i></a>
+					</div>
+			</div>
+		</footer>
+	</div>
+	<script src="static/js/main-v6ro80.js"></script>
+</html>
